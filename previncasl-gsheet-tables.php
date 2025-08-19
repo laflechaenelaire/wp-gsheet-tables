@@ -3,7 +3,7 @@
  * Plugin Name: Previnca GSheet Tables
  * Description: Muestra datos de Google Sheets en tablas con búsqueda y paginación para Grupo Previnca.
  * Version: 1.0.0
- * Author: Santiago M. González
+ * Author: Santiago M. González345
  */
 
 
