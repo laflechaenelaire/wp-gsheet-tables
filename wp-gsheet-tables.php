@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: WP-GSheet Tables
- * Plugin URI: https://github.com/previncasl/wp-gsheet-tables
+ * Plugin URI: https://github.com/wp-gsheet-tables/wp-gsheet-tables
  * Description: Muestra datos de Google Sheets en tablas con búsqueda (por columna o todas), y paginación.
  * Version: 1.1.0
  * Requires at least: 5.0
  * Tested up to: 6.4
  * Requires PHP: 7.4
  * Author: Santiago M. González
- * Author URI: https://github.com/previncasl
+ * Author URI: https://github.com/laflechaenelaire/wp-gsheet-tables
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: wp-gsheet-tables
